@@ -6,3 +6,6 @@ description      'Installs/Configures experimental'
 long_description 'Installs/Configures experimental'
 version          '0.1.0'
 
+depends 'java'
+depends 'leiningen'
+
